@@ -381,13 +381,6 @@ The backend expects:
 - Add topic-wise tracking and progress visualization  
 - Add keyboard shortcuts for quick hint / explanation calls
 
----
-
-## License
-
-Add your preferred license here (e.g., MIT).
-
----
 
 ## Contributing
 
